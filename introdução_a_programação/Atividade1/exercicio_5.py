@@ -1,0 +1,30 @@
+total1 = 'Multiplicação'
+print(total1)
+print("4*2 =")
+total12 = int(4*2)
+print(total12)
+print("-------------------------------------")
+total2 = 'Divisão'
+print(total2)
+print("32/4 =")
+total21 = int(32/4)
+print(total21)
+print("-------------------------------------")
+total3 = 'Soma'
+print(total3)
+print("4+4 =")
+total31 = int(4+4)
+print(total31)
+print("-------------------------------------")
+total4 = 'Subtração'
+print(total4)
+print("64-56 =")
+total41 = int(64-56)
+print(total41)
+print("-------------------------------------")
+total_completo = 'Conta com as quatro operações'
+print(total_completo)
+print("100/2-50+4*2")
+total10 = int(100/2-50+4*2)
+print(total10)
+print("-------------------------------------")
